@@ -4,3 +4,7 @@
 .vscode
 Exercise_MLPR2023_Part2_uuid.ipynb:Zone.Identifier
 Rice_Image_Dataset.zip:Zone.Identifier
+best_model_kNN.joblib
+best_model_mlp.joblib
+best_model_rfc.joblib
+Exercise_MLPR2023_Part3_uuid.ipynb:Zone.Identifier
